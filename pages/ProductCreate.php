@@ -1,6 +1,5 @@
 <?php
 
-
 session_start();
 
 use App\Product;
